@@ -26,7 +26,7 @@ module.exports = {
     READ_COMMAND: convertToBool(process.env.READ_COMMAND) || true,
     SESSION: process.env.SESSION.trim() || '',
     IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f","deb80cd12ababea1c9b9a8ad6ce3fab2","78c84c62b32a88e86daf87dd509a657a"],
-    RG: process.env.RG || '14157614157@g.us',
+    RG: process.env.RG || '260978532917-447418329446@g.us',
     BOT_INFO: process.env.BOT_INFO || '𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒;Skl11;0;https://i.ibb.co/42XHfb7/eren-yeager-hd-attack-on-titan-2.jpg;https://chat.whatsapp.com/GcHrzmyI1YbDGKI5SoIyBI',
     RBG_KEY: process.env.RBG_KEY || '/',
     ALLOWED: process.env.ALLOWED || 'all',
